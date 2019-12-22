@@ -1,0 +1,4 @@
+com\spk\config\WebConfig.class
+com\spk\config\AppConfig.class
+com\spk\model\Book.class
+com\spk\config\MyWebAppInitializer.class
